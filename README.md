@@ -18,6 +18,9 @@
 - [Hash Search](HashSearch/HashSearch.cpp)
 - [Linked List - Queue](Stack&Queue_Linked_List/QueueSLL.cpp)
 - [Linked List - Stack](Stack&Queue_Linked_List/SnQSLL.cpp)
+- [Infix to Postfix Conversion](Infix_to_Postfix/InfixToPostfix.cpp)
+- [Doubly Linked List](Doubly_Linked_List/dll.cpp)
+- [Circular Doubly Linked List](Circular_Doubly_Linked_List/cdll.cpp)
 
 ## Algorithm Index
 
