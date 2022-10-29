@@ -14,7 +14,7 @@
 - [Sequential Search (Recursive)](Binary_Search,Sequential_Search/SearchingRecursive.cpp)
 - [Stack](Stack&Queue/Stack.cpp)
 - [Queue](Stack&Queue/Queue.cpp)
-- [Singly_Linked_List](Singly_Linked_List/SLL.cpp)
+- [Singly Linked List](Singly_Linked_List/SLL.cpp)
 - [Hash Search](HashSearch/HashSearch.cpp)
 - [Linked List - Queue](Stack&Queue_Linked_List/QueueSLL.cpp)
 - [Linked List - Stack](Stack&Queue_Linked_List/SnQSLL.cpp)
