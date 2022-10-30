@@ -21,6 +21,7 @@
 - [Infix to Postfix Conversion](Infix_to_Postfix/InfixToPostfix.cpp)
 - [Doubly Linked List](Doubly_Linked_List/dll.cpp)
 - [Circular Doubly Linked List](Circular_Doubly_Linked_List/cdll.cpp)
+- [Binary SubTree](Binary_Subtree/BST.cpp)
 
 ## Algorithm Index
 
