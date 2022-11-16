@@ -22,6 +22,7 @@
 - [Doubly Linked List](Doubly_Linked_List/dll.cpp)
 - [Circular Doubly Linked List](Circular_Doubly_Linked_List/cdll.cpp)
 - [Binary SubTree](Binary_Subtree/BST.cpp)
+- [Breadth First Traversal](Breadth_First_Traversal/BFT.cpp)
 
 ## Algorithm Index
 
