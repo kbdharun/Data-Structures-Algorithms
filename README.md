@@ -24,6 +24,7 @@
 - [Binary SubTree](Binary_Subtree/BST.cpp)
 - [Breadth First Traversal](Breadth_First_Traversal/BFT.cpp)
 - [Depth First Traversal](Depth_First_Traversal/DFT.cpp)
+- [Minimum Weight Spanning Tree](Minimum_weight_spanning_tree/MWST.cpp)
 
 ## Algorithm Index
 
