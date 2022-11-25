@@ -26,8 +26,3 @@
 - [Depth First Traversal](Depth_First_Traversal/DFT.cpp)
 - [Minimum Weight Spanning Tree](Minimum_weight_spanning_tree/MWST.cpp)
 
-## Algorithm Index
-
-- [Sorting](Bubble_sort,Insertion_sort/Algorithm.md)
-- [Searching](Binary_Search,Sequential_Search/Algorithm.md) (*excluding hash search*)
-- [Stack and Queue](Stack&Queue/Algorithm.md)
