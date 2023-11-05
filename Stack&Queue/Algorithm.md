@@ -1,10 +1,10 @@
 # Demonstration of Stack and Queue operations using array
 
-## Stack operations:
+## Stack operations
 
 ### Push
 
-**Algorithm PushStack( stack, data)**
+#### Algorithm PushStack( stack, data)
 
 1. if (stack is full)
 	1. set success to false
@@ -18,7 +18,7 @@
 
 ### Pop
 
-**Algorithm PopStack (stack, dataOut)**
+#### Algorithm PopStack (stack, dataOut)
 
 1. if (stack empty)
 	1. set success to false
@@ -33,7 +33,7 @@
 
 ### StackTop
 
-**Algorithm StackTop (stack, dataOut)**
+#### Algorithm StackTop (stack, dataOut)
 
 1. if (stack empty)
 	1. set success to false
@@ -44,32 +44,36 @@
 4. return success
 
 **End StackTop**
+
 ### EmptyStack
 
-**Algorithm EmptyStack(queue)**
+#### Algorithm EmptyStack(queue)**
 
-1. if (Top is -1)<br>
-	1 set empty to true
-2. else<br>
-	1 set empty to false
+1. if (Top is -1)
+	1. set empty to true
+2. else
+	1. set empty to false
 3. end if
 4. return empty
 **end EmptyStack**
+
 ### FullStack
-**Algorithm FullStack(Stack)**
-1. if (Top equals to MAXSIZE)<br>
-	1 set full to true
+
+#### Algorithm FullStack(Stack)
+
+1. if (Top equals to MAXSIZE)
+	1. set full to true
 2. else
 	1. set full to false
 3. endif
 4. return full
 **End FullStack**
 
-## Queue operations:
+## Queue operations
 
 ### Enqueue
 
-**Algorithm enqueue(queue, dataIn)**
+#### Algorithm enqueue(queue, dataIn)
 
 1. if (queue is full)
 	1. set success to false
@@ -82,7 +86,7 @@
 
 ### Dequeue
 
-**Algorithm dequeue(queue, dataOut)**
+#### Algorithm dequeue(queue, dataOut)
 
 1. if (queue is empty)
 	1. set success to false
@@ -96,7 +100,8 @@
 
 ### QueueFront
 
-**Algorithm QueueFront (queue, dataOut)**
+#### Algorithm QueueFront (queue, dataOut)
+
 1. if (queue empty)
 	1. set success to false
 2. else
@@ -105,8 +110,10 @@
 3. end if
 4. return success
 **end QueueFront**
+
 ### QueueRear
-**Algorithm QueueRear (queue, dataOut)**
+
+#### Algorithm QueueRear (queue, dataOut)
 
 1. if ( queue empty)
 	1. set success to false
@@ -120,7 +127,7 @@
 
 ### EmptyQueue
 
-**Algorithm EmptyQueue(queue)**
+#### Algorithm EmptyQueue(queue)
 
 1. if (front and rear are -1)
 	1. set empty to true
@@ -132,7 +139,7 @@
 
 ### FullQueue
 
-**Algorithm FullQueue(queue)**
+#### Algorithm FullQueue(queue)
 
 1. if (rear equals to MAXSIZE)
 	1. set full to true
@@ -145,7 +152,7 @@
 
 ### QueueCount
 
-**Algorithm QueueCount(Queue)**
+#### Algorithm QueueCount(Queue)
 
 1. if (Queue Empty)
 	1. Display ‘Queue is Empty’
@@ -153,4 +160,5 @@
 2. else
 	1. Return rear – front + 1
 3. endif
+
 **End Display**

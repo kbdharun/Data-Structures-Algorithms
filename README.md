@@ -1,7 +1,7 @@
 # Data-Structures-Algorithms
 
-- This repository contains algorithms and programs that I work out for my Data Structure course at college.
-- All programs are written in C++ and compiled using GCC in Linux.
+- This repository contains algorithms and programs that I worked out for my Data Structure course at college in 2022.
+- All programs are written in C++ and compiled using GCC (`g++`) in Linux.
 
 ## Programs Index
 
@@ -25,4 +25,3 @@
 - [Breadth First Traversal](Breadth_First_Traversal/BFT.cpp)
 - [Depth First Traversal](Depth_First_Traversal/DFT.cpp)
 - [Minimum Weight Spanning Tree](Minimum_weight_spanning_tree/MWST.cpp)
-
